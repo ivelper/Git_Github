@@ -7,3 +7,5 @@ que tengan un buen dia
 mi nombre es Israel
 
 la fecha es 2024.
+
+git show agregado
