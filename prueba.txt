@@ -8,7 +8,7 @@ mi nombre es Israel
 
 la fecha es 2024. hoy es domingo
 
-git show agregado
+git show modificado1
 
 esto lo meto en el branch. Y continuo
 
