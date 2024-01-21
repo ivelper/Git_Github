@@ -1,6 +1,6 @@
-hola a todos
+hola a todos.
 
-adios a todos
+adios a todos.
 
 que tengan un buen dia
 
@@ -9,3 +9,5 @@ mi nombre es Israel
 la fecha es 2024
 
 git show agregado
+
+esto lo meto en el branch
