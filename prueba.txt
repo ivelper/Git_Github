@@ -10,4 +10,4 @@ la fecha es 2024
 
 git show agregado
 
-esto lo meto en el branch
+esto lo meto en el branch. Y continuo
